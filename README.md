@@ -92,3 +92,29 @@ GROUP BY curso.nome_curso;
 Descrição:
 Esta consulta retorna o total de alunos matriculados em cada curso, agrupados por nome do curso. A junção entre as tabelas 'curso' e 'aluno' é realizada para vincular as informações relevantes.
 
+
+##  Diagrama EER do modelo fisico
+
+- [Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/Diagrama%20EER%20-%20Modelo%20Fisico.mwb)
+
+![Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO%20FISICO.png)
+
+**Destaques:**
+- Organização eficaz das entidades.
+- Relacionamentos claramente definidos.
+- Restrições configuradas para garantir integridade.
+
+Este modelo físico é a tradução prática do projeto conceitual, oferecendo uma visão clara da arquitetura do banco de dados implementada.
+
+
+**Tecnologias Utilizadas**
+
+
+   - [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados relacional amplamente utilizado
+
+
+   - [Draw.io](https://www.draw.io/) - Ferramenta online para criação de diagramas e fluxogramas. 
+
+
+
+
