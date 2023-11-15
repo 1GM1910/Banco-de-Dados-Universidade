@@ -1,5 +1,22 @@
 # Banco-de-Dados-Universidade
 
+ ### Índice
+1. [**Sobre o Projeto**](#sobre-o-projeto)
+    - 1.1 [Características Principais](#características-principais)
+
+2. [**Modelagem do Banco de Dados**](#modelagem-do-banco-de-dados)
+    - 2.1 [Tabelas do Banco de Dados](#tabelas-do-banco-de-dados)
+    - 2.2 [Modelo Conceitual](#modelo-conceitual)
+    - 2.3 [Modelo Lógico](#modelo-lógico)
+    - 2.4 [Modelo Normalizado](#modelo-normalizado)
+
+3. [**Modelo Físico do Banco de Dados**](#modelo-físico-do-banco-de-dados)
+    - 3.1 [Código SQL](#código-sql)
+    - 3.2 [Consultas SQL](#consultas-sql)
+    - 3.3 [Diagrama EER do Modelo Físico](#diagrama-eer-do-modelo-físico)
+
+4. [**Considerações Finais**](#considerações-finais)
+    - 4.1 [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 ## Sobre o projeto
 
@@ -115,6 +132,12 @@ Este modelo físico é a tradução prática do projeto conceitual, oferecendo u
 
    - [Draw.io](https://www.draw.io/) - Ferramenta online para criação de diagramas e fluxogramas. 
 
+## Considerações finais
+
+Certamente, ao concluir este projeto, sinto-me extremamente gratificado pela oportunidade de aplicar os conhecimentos sólidos que adquiri ao longo do meu percurso acadêmico na Escola SENAI. O desenvolvimento deste banco de dados não apenas consolidou minha compreensão teórica, mas também proporcionou um ambiente prático para aprimorar habilidades cruciais em modelagem, normalização e implementação de sistemas relacionais.
+
+Durante esse processo, explorei e desenvolvi competências essenciais para projetar e implementar sistemas de banco de dados de maneira eficaz. Compreendi profundamente a importância da estruturação adequada, reconhecendo que a flexibilidade é a chave para a adaptação a diferentes demandas e a eficácia no armazenamento e recuperação de dados.
+Este projeto não apenas representa uma etapa significativa no meu percurso educacional, mas também destaca meu comprometimento com a excelência na área de banco de dados. Estou confiante de que as habilidades aprimoradas ao longo deste processo serão fundamentais em minha jornada profissional, contribuindo para futuros desafios e projetos.
 
 
 
