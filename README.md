@@ -37,7 +37,7 @@ Por fim, abordaremos o Modelo Normalizado, otimizando a eficiência da gestão d
 
 ## Modelo Conceitual:
 
-![Modelo Conceitual](link_para_a_imagem_conceitual)
+![Modelo Conceitual](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_CONCEITUAL.drawio.png?raw=true)
 
 **Descrição do Modelo Conceitual:**
 O modelo conceitual representa as principais entidades do sistema e seus relacionamentos. Facilita a compreensão da estrutura geral do banco de dados, destacando as conexões entre faculdades, departamentos, disciplinas, cursos, funcionários e alunos.
