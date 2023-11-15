@@ -26,7 +26,7 @@ Por fim, abordaremos o Modelo Normalizado, otimizando a eficiência da gestão d
 
 ## Tabelas do Banco de Dados:
 
-![Tabelas](https://github.com/seu-usuario/seu-repositorio/raw/master/pasta-da-imagem/minha-imagem.png)
+![Tabelas](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/TABELAS.png?raw=true)
 
 ## Modelo Conceitual:
 
