@@ -92,7 +92,7 @@ INSERT INTO departamento (nome_departamento, responsavel, email, localizacao, te
 
 ## Consultas SQL 
 
-- [Código SQL de exemplos de consultas ](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/Selects.sql)
+- [Código SQL de exemplos de consultas ](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/consuldas_SQL.sql)
 
 Exemplo de trecho de código SQL:
 ```sql
