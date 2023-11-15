@@ -44,7 +44,7 @@ O modelo conceitual representa as principais entidades do sistema e seus relacio
 
 ## Modelo Lógico:
 
-![Modelo Lógico](link_para_a_imagem_logico)
+![Modelo Lógico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_LOGICO.drawio.png?raw=true)
 
 **Descrição do Modelo Lógico:**
 No modelo lógico, as entidades são convertidas em tabelas, e os relacionamentos são definidos por meio de chaves estrangeiras. Este modelo fornece uma visão mais detalhada da estrutura do banco de dados, destacando as tabelas e suas associações.
