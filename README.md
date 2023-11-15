@@ -1,5 +1,17 @@
 # Banco-de-Dados-Universidade
 
+## Índice
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tabelas do Banco de Dados](#tabelas-do-banco-de-dados)
+- [Modelo Conceitual](#modelo-conceitual)
+- [Modelo Lógico](#modelo-lógico)
+- [Modelo Normalizado](#modelo-normalizado)
+- [Modelo Físico do Banco de Dados](#modelo-físico-do-banco-de-dados)
+- [Código SQL](#código-sql)
+- [Consultas SQL](#consultas-sql)
+- [Diagrama EER do Modelo Físico](#diagrama-eer-do-modelo-físico)
+- [Considerações Finais](#considerações-finais)
+
 
 ## Sobre o projeto
 
@@ -80,7 +92,7 @@ INSERT INTO departamento (nome_departamento, responsavel, email, localizacao, te
 
 ## Consultas SQL 
 
-- [Código SQL de exemplos de consultas ](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/Selects.sql)
+- [Código SQL de exemplos de consultas ](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/consuldas_SQL.sql)
 
 Exemplo de trecho de código SQL:
 ```sql
@@ -91,4 +103,36 @@ GROUP BY curso.nome_curso;
 ```
 Descrição:
 Esta consulta retorna o total de alunos matriculados em cada curso, agrupados por nome do curso. A junção entre as tabelas 'curso' e 'aluno' é realizada para vincular as informações relevantes.
+
+
+##  Diagrama EER do modelo fisico
+
+- [Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/Diagrama%20EER%20-%20Modelo%20Fisico.mwb)
+
+![Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO%20FISICO.png)
+
+**Destaques:**
+- Organização eficaz das entidades.
+- Relacionamentos claramente definidos.
+- Restrições configuradas para garantir integridade.
+
+Este modelo físico é a tradução prática do projeto conceitual, oferecendo uma visão clara da arquitetura do banco de dados implementada.
+
+
+**Tecnologias Utilizadas**
+
+
+   - [MySQL](https://www.mysql.com/) - Sistema de gerenciamento de banco de dados relacional amplamente utilizado
+
+
+   - [Draw.io](https://www.draw.io/) - Ferramenta online para criação de diagramas e fluxogramas. 
+
+## Considerações finais
+
+Certamente, ao concluir este projeto, sinto-me extremamente gratificado pela oportunidade de aplicar os conhecimentos sólidos que adquiri ao longo do meu percurso acadêmico na Escola SENAI. O desenvolvimento deste banco de dados não apenas consolidou minha compreensão teórica, mas também proporcionou um ambiente prático para aprimorar habilidades cruciais em modelagem, normalização e implementação de sistemas relacionais.
+
+Durante esse processo, explorei e desenvolvi competências essenciais para projetar e implementar sistemas de banco de dados de maneira eficaz. Compreendi profundamente a importância da estruturação adequada, reconhecendo que a flexibilidade é a chave para a adaptação a diferentes demandas e a eficácia no armazenamento e recuperação de dados.
+Este projeto não apenas representa uma etapa significativa no meu percurso educacional, mas também destaca meu comprometimento com a excelência na área de banco de dados. Estou confiante de que as habilidades aprimoradas ao longo deste processo serão fundamentais em minha jornada profissional, contribuindo para futuros desafios e projetos.
+
+
 
