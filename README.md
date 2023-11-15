@@ -26,14 +26,7 @@ Por fim, abordaremos o Modelo Normalizado, otimizando a eficiência da gestão d
 
 ## Tabelas do Banco de Dados:
 
-| Tabela       | Descrição                                                                                      |
-|--------------|-----------------------------------------------------------------------------------------------|
-| faculdade    | Informações sobre as faculdades, incluindo um identificador único e o nome da faculdade.       |
-| departamento | Detalhes dos departamentos, com informações sobre o responsável, localização e contato.         |
-| disciplina   | Armazena dados das disciplinas acadêmicas, incluindo carga horária, descrição e curso associado.|
-| curso        | Informações sobre os cursos oferecidos, com referência à disciplina associada.                  |
-| funcionario  | Detalhes dos membros da equipe, incluindo nome, título acadêmico e afiliação a departamentos.  |
-| aluno        | Informações sobre estudantes, incluindo nome, curso associado e status acadêmico.               |
+![Tabelas](https://github.com/seu-usuario/seu-repositorio/raw/master/pasta-da-imagem/minha-imagem.png)
 
 ## Modelo Conceitual:
 
