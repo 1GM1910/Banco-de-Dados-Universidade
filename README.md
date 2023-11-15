@@ -9,7 +9,6 @@
 - [Modelo Físico do Banco de Dados](#modelo-físico-do-banco-de-dados)
 - [Código SQL](#código-sql)
 - [Consultas SQL](#consultas-sql)
-- [Diagrama EER do Modelo Físico](#diagrama-eer-do-modelo-físico)
 - [Considerações Finais](#considerações-finais)
 
 
@@ -36,25 +35,25 @@ Por fim, abordaremos o Modelo Normalizado, otimizando a eficiência da gestão d
 
 ## Tabelas do Banco de Dados:
 
-![Tabelas](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/TABELAS.png?raw=true)
+![Tabelas](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/TABELAS.png)
 
 ## Modelo Conceitual:
 
-![Modelo Conceitual](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_CONCEITUAL.drawio.png?raw=true)
+![Modelo Conceitual](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/MODELO_CONCEITUAL.drawio.png)
 
 **Descrição do Modelo Conceitual:**
 O modelo conceitual representa as principais entidades do sistema e seus relacionamentos. Facilita a compreensão da estrutura geral do banco de dados, destacando as conexões entre faculdades, departamentos, disciplinas, cursos, funcionários e alunos.
 
 ## Modelo Lógico:
 
-![Modelo Lógico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_LOGICO.drawio.png?raw=true)
+![Modelo Lógico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/MODELO_LOGICO.drawio.png)
 
 **Descrição do Modelo Lógico:**
 No modelo lógico, as entidades são convertidas em tabelas, e os relacionamentos são definidos por meio de chaves estrangeiras. Este modelo fornece uma visão mais detalhada da estrutura do banco de dados, destacando as tabelas e suas associações.
 
 ## Modelo Normalizado:
 
-![Modelo Normalizado](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_NORMALIZADO.drawio.png?raw=true)
+![Modelo Normalizado](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/MODELO_NORMALIZADO.drawio.png)
 
 **Descrição do Modelo Normalizado:**
 O modelo normalizado reflete um banco de dados otimizado, livre de redundâncias e dependências transitivas. Cada tabela está na Terceira Forma Normal (3NF), garantindo eficiência na gestão de dados e preservando a integridade referencial.
@@ -109,7 +108,7 @@ Esta consulta retorna o total de alunos matriculados em cada curso, agrupados po
 
 - [Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/db_universidade/Diagrama%20EER%20-%20Modelo%20Fisico.mwb)
 
-![Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO%20FISICO.png)
+![Diagrama do Modelo Físico](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/imgs/MODELO%20FISICO.png)
 
 **Destaques:**
 - Organização eficaz das entidades.
