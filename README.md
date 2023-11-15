@@ -51,7 +51,7 @@ No modelo lógico, as entidades são convertidas em tabelas, e os relacionamento
 
 ## Modelo Normalizado:
 
-![Modelo Normalizado](link_para_a_imagem_normalizado)
+![Modelo Normalizado](https://github.com/1GM1910/Banco-de-Dados-Universidade/blob/main/diagramas/MODELO_NORMALIZADO.drawio.png?raw=true)
 
 **Descrição do Modelo Normalizado:**
 O modelo normalizado reflete um banco de dados otimizado, livre de redundâncias e dependências transitivas. Cada tabela está na Terceira Forma Normal (3NF), garantindo eficiência na gestão de dados e preservando a integridade referencial.
