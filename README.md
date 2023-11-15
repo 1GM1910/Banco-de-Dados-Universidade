@@ -1,22 +1,17 @@
 # Banco-de-Dados-Universidade
 
- ### Índice
-1. [**Sobre o Projeto**](#sobre-o-projeto)
-    - 1.1 [Características Principais](#características-principais)
+## Índice
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Tabelas do Banco de Dados](#tabelas-do-banco-de-dados)
+- [Modelo Conceitual](#modelo-conceitual)
+- [Modelo Lógico](#modelo-lógico)
+- [Modelo Normalizado](#modelo-normalizado)
+- [Modelo Físico do Banco de Dados](#modelo-físico-do-banco-de-dados)
+- [Código SQL](#código-sql)
+- [Consultas SQL](#consultas-sql)
+- [Diagrama EER do Modelo Físico](#diagrama-eer-do-modelo-físico)
+- [Considerações Finais](#considerações-finais)
 
-2. [**Modelagem do Banco de Dados**](#modelagem-do-banco-de-dados)
-    - 2.1 [Tabelas do Banco de Dados](#tabelas-do-banco-de-dados)
-    - 2.2 [Modelo Conceitual](#modelo-conceitual)
-    - 2.3 [Modelo Lógico](#modelo-lógico)
-    - 2.4 [Modelo Normalizado](#modelo-normalizado)
-
-3. [**Modelo Físico do Banco de Dados**](#modelo-físico-do-banco-de-dados)
-    - 3.1 [Código SQL](#código-sql)
-    - 3.2 [Consultas SQL](#consultas-sql)
-    - 3.3 [Diagrama EER do Modelo Físico](#diagrama-eer-do-modelo-físico)
-
-4. [**Considerações Finais**](#considerações-finais)
-    - 4.1 [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 ## Sobre o projeto
 
